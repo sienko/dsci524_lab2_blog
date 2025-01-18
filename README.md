@@ -1,1 +1,1 @@
-# dsci524_lab2_blog
+# DSCI524 Lab 2 - Data Science Blog

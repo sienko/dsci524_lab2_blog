@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Sienko’s Blog",
+    "section": "",
+    "text": "This is a blog website that I created using Quarto for one of my MDS labs."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Communication and Argumentation in Data Science",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nSienko’s Blog\n\n\n\n\n\n\ndata science\n\n\nmachine learning\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\nSienko Ikhabi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
