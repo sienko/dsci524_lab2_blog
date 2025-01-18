@@ -1,0 +1,14 @@
+---
+title: "Sienko's Blog"
+author: "Sienko Ikhabi"
+date: "2025-01-15"
+categories: [data science, machine learning]
+---
+
+This is a blog website that I created using [Quarto](https://quarto.org/) for 
+one of my [MDS](https://masterdatascience.ubc.ca/) labs.
+
+<!---![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+--->
