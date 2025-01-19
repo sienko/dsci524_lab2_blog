@@ -98,4 +98,5 @@ better understand the numeric metrics (precision, recall and AUC).
 
 
 References:
+
 1. Nawar, Anika (2019, September 30). Plotting ROC curve in Altair.  https://nawarani.github.io/blog/blog-2.html
