@@ -90,7 +90,7 @@ models can also help us compare how well the models are
 classifying the data. In @fig-models, I show the probability density distributions for a
 Logistic Regression model and an XGBoost model that I trained during the lab.
 
-![Comparing Predicted Probabilities from two models](threshold.png){#fig-models width=80%}
+![Comparing Predicted Probabilities from two models](model_proba.png){#fig-models width=80%}
 
 We can observe visually how well the XGBoost model does a better at separating 
 the two classes. To me, such a visualization is intuitive and can help students 
